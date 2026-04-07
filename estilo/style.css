@@ -89,12 +89,12 @@ section.imagem>p {
 }
 
 section#img01 {
-    background-image: url('../imagens/background001.jpg');
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../imagens/background001.jpg');
     background-position: right center;
 }
 
 section#img02 {
-    background-image: url('../imagens/background002.jpg');
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../imagens/background002.jpg');
 }
 
 footer {
